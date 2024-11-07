@@ -1,3 +1,6 @@
+//Bubble sort using C programming
+
+
 #include <stdio.h>
 void bubbleSort(int array[], int n)
 {
